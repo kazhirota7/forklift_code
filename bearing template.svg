@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   viewBox="0 0 793.7007874015749 1122.5196850393702"
+   width="793.7007874015749"
+   height="1122.5196850393702"
+   version="1.1"
+   id="svg398">
+  <metadata
+     id="metadata402">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs26">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path10" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path13" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path15" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path17" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+    <symbol
+       id="SW_NOTE_0" />
+    <symbol
+       id="SW_NOTE_0_1" />
+    <symbol
+       id="SW_NOTE_0_2" />
+  </defs>
+  <g
+     id="g392">
+    <use
+       xlink:href="#SW_NOTE_0"
+       transform="translate(1026.55, -131.768)"
+       id="use344" />
+    <use
+       xlink:href="#SW_NOTE_0_1"
+       transform="translate(1027.72, -202.833)"
+       id="use346" />
+    <use
+       xlink:href="#SW_NOTE_0_2"
+       transform="translate(680.899, -109.371)"
+       id="use364" />
+    <path
+       d="m 610.67757,430.03565 a 41.19685,41.19685 0 1 0 -82.3937,0 41.19685,41.19685 0 1 0 82.3937,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:round"
+       id="path366" />
+    <path
+       d="m 408.02402,430.03565 a 41.385827,41.385827 0 1 0 -82.77165,0 41.385827,41.385827 0 1 0 82.77165,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:round"
+       id="path368" />
+    <path
+       d="m 207.47247,430.03565 a 41.574803,41.574803 0 1 0 -83.1496,0 41.574803,41.574803 0 1 0 83.1496,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:round"
+       id="path370" />
+    <path
+       d="M 668.85334,286.03565 H 92.853343"
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:round"
+       id="path372" />
+    <path
+       d="m 668.85334,574.03565 v -288"
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:round"
+       id="path374" />
+    <path
+       d="M 92.853343,574.03565 H 668.85334"
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:round"
+       id="path376" />
+    <path
+       d="m 92.853343,286.03565 v 288"
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:round"
+       id="path378" />
+    <path
+       d="m 309.32475,430.03565 a 41.480315,41.480315 0 1 0 -82.96063,0 41.480315,41.480315 0 1 0 82.96063,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:round"
+       id="path380" />
+    <path
+       d="m 508.91979,430.03565 a 41.385827,41.385827 0 1 0 -82.77166,0 41.385827,41.385827 0 1 0 82.77166,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:round"
+       id="path382" />
+  </g>
+  <g
+     id="g394" />
+  <desc
+     id="desc396">bearing template.DXF - scale = 25.400000, origin = (0.000000, 0.000000), method = file</desc>
+</svg>
